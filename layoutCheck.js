@@ -1,3 +1,8 @@
+/* Credit to @psb (pseudobinary#2275) on SFXD for the initial idea
+ * and version of this script.
+ * Love janky solutions? Come hang out. https://discord.gg/sfxd
+ */
+
 try {
   require("jsdom");
 } catch {

@@ -2,7 +2,7 @@
 Compares standard (aka classic) page layouts to show field presence/absence
 
 # Prerequisites
-1. nodeJS (any LTS version should be fine)
+1. [nodeJS](https://nodejs.org/en/download/) (any LTS version should be fine)
 1. Powershell (native with Windows, [Mac instructions](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-macos))
 1. A copy of the page layout XML from the org in SFDX format downloaded onto your machine (You can use VSCode, not covered here)
 1. Optionally a copy of the field XML from the org in SFDX format under the same folder structure as above
